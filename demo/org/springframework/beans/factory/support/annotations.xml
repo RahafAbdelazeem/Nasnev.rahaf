@@ -1,0 +1,7 @@
+<root>
+    <item name='org.springframework.beans.factory.support.ConstructorResolver java.lang.Object instantiate(java.lang.String, org.springframework.beans.factory.support.RootBeanDefinition, java.lang.Object, java.lang.reflect.Method, java.lang.Object[])'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="pure" val="true"/>
+        </annotation>
+    </item>
+</root>

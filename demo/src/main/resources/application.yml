@@ -1,0 +1,16 @@
+server:
+  error:
+    include-message: always
+    include-binding-errors: always
+spring:
+  datasource:
+    password:
+    url: jdbc:Postgresql://localhost:5432/ Register
+    username:
+  jba:
+    hibernate:
+      ddl-auto: create_drop
+    properties:
+      hibernate:
+
+
